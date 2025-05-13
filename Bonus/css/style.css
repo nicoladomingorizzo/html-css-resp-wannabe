@@ -148,11 +148,12 @@ img {
 /* Mobile first */
 
 @media screen and (max-width: 480px) {
-  /* .container {
-    /* width: 480px;
-    max-width: 100%; 
-    }*/
+  .why-us .container{
+    background-color: black;
+    margin: -50px auto;  
+    }
   
+    
 
   .row {
     display: flex;
