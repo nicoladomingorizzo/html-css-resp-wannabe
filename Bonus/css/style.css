@@ -128,6 +128,14 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
+/* From Tablet to Desktop */
+
+@media screen and (min-width: 768px) and (max-width: 1140px) {
+ .container{
+  width: 100%;
+ }
+}
+
 /* Tablet first */
 
 @media screen and (max-width: 768px) {
